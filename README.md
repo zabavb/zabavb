@@ -10,6 +10,8 @@ Welcome to my GitHub portfolio! I am a passionate software developer with **over
   <p>
 </p>
 
+---
+
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/mvc)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
@@ -33,7 +35,6 @@ Welcome to my GitHub portfolio! I am a passionate software developer with **over
 [![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
 [![Azure Tables](https://img.shields.io/badge/Azure_Tables-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/storage/tables/)
 [![Azure Blobs](https://img.shields.io/badge/Azure_Blobs-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/storage/blobs/)
 [![Azure VM](https://img.shields.io/badge/Azure_VM-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/virtual-machines/)
@@ -47,8 +48,4 @@ Welcome to my GitHub portfolio! I am a passionate software developer with **over
 [![LINQ](https://img.shields.io/badge/LINQ-512BD4?logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
 [![Lambda](https://img.shields.io/badge/Lambda-512BD4?logo=.net&logoColor=white)](https://en.wikipedia.org/wiki/Anonymous_function)
 [![Async](https://img.shields.io/badge/Async-512BD4?logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
-[![STL](https://img.shields.io/badge/STL-00599C?logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/Standard_Template_Library)
-[![OOP](https://img.shields.io/badge/OOP-00599C?logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Ajax](https://img.shields.io/badge/Ajax-0769AD?logo=jquery&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
-[![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)](https://en.wikipedia.org/wiki/XML)
