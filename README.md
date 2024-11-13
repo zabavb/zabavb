@@ -1,10 +1,7 @@
-# 👋 Hello, I'm Viktor (Zaba)
-
 Welcome to my GitHub portfolio! I am a passionate software developer with **over 3.5 years of experience** coding in various languages and frameworks, honed through my studies and project work at **IT Step Academy**.   This journey has given me hands-on experience in building applications across multiple platforms, from console and web to full-stack solutions.
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zabavb&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <p align="center">
@@ -13,7 +10,6 @@ Welcome to my GitHub portfolio! I am a passionate software developer with **over
   <p>
 </p>
 
-### 🔧 Technologies & Skills
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/mvc)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
