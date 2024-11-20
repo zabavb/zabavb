@@ -7,11 +7,12 @@
     hands-on experience in building applications across multiple platforms, from console and web to full-stack solutions.
   </p>
 </details>
+
 <p align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zabavb&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabavb&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
-  <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zabavb&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabavb&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
+<p>
+<p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=zabavb&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
