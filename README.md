@@ -25,11 +25,13 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"><img src="https://img.shields.io/badge/WinForms-512BD4?logo=windows&logoColor=white" alt="WinForms"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" alt="WPF"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/"><img src="https://img.shields.io/badge/ADO.NET-512BD4?logo=.net&logoColor=white" alt="ADO.NET"></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C/C++"></a>
 
-  <h4>JavaScript</h4>
-  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <h4>JavaScript (TypeScript)</h4>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"></a>
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" alt="React Native"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery"></a>
 
   <h4>JDK</h4>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"></a>
@@ -44,9 +46,11 @@
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"></a>
   <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle_DB-F80000?logo=oracle&logoColor=white" alt="Oracle DB"></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS_S3-FF9900?logo=amazon-aws&logoColor=white" alt="AWS S3"></a>
   <a href="https://azure.microsoft.com/en-us/services/storage/tables/"><img src="https://img.shields.io/badge/Azure_Tables-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure Tables"></a>
   <a href="https://azure.microsoft.com/en-us/services/storage/blobs/"><img src="https://img.shields.io/badge/Azure_Blobs-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure Blobs"></a>
   <a href="https://azure.microsoft.com/en-us/services/virtual-machines/"><img src="https://img.shields.io/badge/Azure_VM-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure VM"></a>
+
 
   <h4>General Skills</h4>
   <a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-FF6F00?logo=microservices&logoColor=white" alt="Microservices"></a>
