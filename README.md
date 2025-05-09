@@ -32,6 +32,7 @@
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" alt="React Native"></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery"></a>
+  <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"></a>
 
   <h4>JDK</h4>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"></a>
